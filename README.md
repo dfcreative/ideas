@@ -1,5 +1,4 @@
-# ideas
-Ideas for new projects to make one day
+# Ideas for projects
 
 * caret-toolkit: get, set, getCoords, getBoundingBox, onchange, setFromCoords, charsInLine
 * 
