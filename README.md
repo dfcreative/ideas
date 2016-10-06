@@ -6,8 +6,9 @@
 
 ## Neural networks
 
-- should export simple formula
-- should engage webgl in processing
-
 * [ ] OSA-UCS formula
 * [ ] Melodic frequencies profile classification
+* [ ] Learn what a photo looked like from the painting
+* [ ] Learn to remove outlines from artistic pictures (toulouse-lautrec)
+* [ ] Learn to reproduce instagram filters (how to do them manually?)
+* [ ] Learn piano sound, through wavenet-like structure
