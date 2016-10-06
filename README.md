@@ -12,3 +12,4 @@
 * [ ] Learn to remove outlines from artistic pictures (toulouse-lautrec)
 * [ ] Learn to reproduce instagram filters (how to do them manually?)
 * [ ] Learn piano sound, through wavenet-like structure
+* [ ] Neural mp3 decoder XD
