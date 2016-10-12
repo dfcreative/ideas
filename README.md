@@ -13,3 +13,4 @@
 * [ ] Learn to reproduce instagram filters (how to do them manually?)
 * [ ] Learn piano sound, through wavenet-like structure
 * [ ] Neural mp3 decoder XD
+* [ ] Learn classical DSP filters (just weighted samples)
