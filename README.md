@@ -7,6 +7,7 @@
 * [ ] _gl-line[2d]_, based on [this article](https://www.mapbox.com/blog/drawing-antialiased-lines/). Pass list of coords, it will draw lines for them.
 * [ ] _fibonacci_process_, visualizing the way points move away from each other
 * [ ] _webgl text rendering_ by the evanw’s thetamath method. Because there is no simple API like `draw(gl, string, opts)`.
+* [ ] _pretty-float_ to format any number in human-readable decimal form, esp, for numbers like _0.0000000000001_ or _1.0000000000001e+32_, because `toFixed` sucks. Will be used in plot-grid at least.
 
 ## Neural networks
 
