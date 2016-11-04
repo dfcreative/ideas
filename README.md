@@ -8,6 +8,8 @@
 * [ ] _fibonacci_process_, visualizing the way points move away from each other
 * [ ] _webgl text rendering_ by the evanw’s thetamath method. Because there is no simple API like `draw(gl, string, opts)`.
 * [ ] _pretty-float_ to format any number in human-readable decimal form, esp, for numbers like _0.0000000000001_ or _1.0000000000001e+32_, because `toFixed` sucks. Will be used in plot-grid at least.
+* [ ] _svg-normalize_, bringing any svg to -1..1 or 0..1 form. Related - svg-getbbox.
+* [ ] shape spectrogram - for detected frequencies build shapes, with reduced other spectral components
 
 ## Neural networks
 
