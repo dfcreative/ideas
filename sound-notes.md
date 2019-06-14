@@ -1,0 +1,1 @@
+* Skipping beat out of sequence is super awesome, because it sets music into inertion. It is like dirac function - one pulse contains every frequency. Skipping a bit works the same way. Like a bike thrown through cave/ramp.
