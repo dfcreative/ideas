@@ -1,3 +1,4 @@
+# Software principles
 
 * Users → authors (of code) → implementors (of low-level system for code) → specifiers (of standards) → theoretical purity (absolute knowledge).
 	* In that way - 'size' instead of 'fftSize' or 'bufferSize'. Nobody wants to know the details, no one remembers how something works.
@@ -7,9 +8,12 @@
 
 * What gift to God the project should be?
 
-* Make it run, make it right, make it fast.
+* Moral principle: "What if everybody would do that?"
+
+* Make it work, make it right, make it fast.
 
 * Wrappers:
+  * string
 	* function
 	* class
 	* stream
@@ -272,8 +276,6 @@
 
 * create trust between components. Let children modify the container - samsara. No need for asking permissions. If destruction happened - unroll samsara by changes.
 
-* use betterjs
-
 * only excuse for async API is potential idle processor time, like threads/networking/app devices. If a function has sync argument, like image.src = data:image, that is leaking API
 
 * Do not generalize code in tests. Every test case should be recreated from scratch, because it is at the same time the use-case.
@@ -290,5 +292,3 @@
 	* Merges in detecting validity of data: null result indicates invalid data, but not failure
 
 * Methods should follow in the order of invocation the component in the real use-case
-
-* Make it right: separate model entities (emmy example), do not mess spaghettie style in methods
