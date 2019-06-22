@@ -27,16 +27,9 @@
 	* Do not create function if code is not reused at least 2 times. Scaffolding is indent’s task, not function.
 	* Do not create method if it has no instance meaning or not to be used outside. That clutters API with no reason.
 
-* Stick to conventions
-	* If the property/method is supposed to be used outside, name it with no lodash, if not - name it with lodash. Even if it is supposed to be redefined.
-	* Callbacks should be called as cb(err, data)
+* Stick to conventions (make it right)
 
-* + Extend Stream, not only the EventEmitter. That is the most high-level API so far.
-	* - Don’t use streams until you really need it. Staic structures are far easier to work with.
-	* - Streamless interface is also universal, whereas stream imposes custom interface. According to upper principle - do basic things first.
-	* + But having stream extended along with simple class is good practice.
-
-* `lib` folder or table of contents in readme - something you do wrong with oyur package.
+* ~~`lib` folder or table of contents in readme - something you do wrong with your package.
 
 * Write self-documented verbose obvious code. Not short symbols, but easy-to-remember or guess phrases. font-size is better than .fs, .box-shadow is better than .bshad. JS is better than LiveScript in that.
 	* Arrow functions, unfortunately, do not follow this :(
@@ -292,3 +285,5 @@
 * Methods should follow in the order of invocation the component in the real use-case
 
 * Make it right: separate model entities (emmy example), do not mess spaghettie style in methods
+
+* Create projects as if it's going to receive 0 stars in github
