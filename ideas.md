@@ -1,6 +1,7 @@
 # Ideas for projects
 
-* [ ] path-base - collection of svg paths (not icons!) marked up, like thenoun but pure b/w svg to copy-paste
+* [ ] git code issues - issues identifiable from the code, with history of comments etc. Instead of storing everything in github, store dev history in repository itself, and even in code, with auto-reference to _issues.md file.
+* [ ] svg-path collection - collection of svg paths (not icons!) marked up, like thenoun but pure b/w svg to copy-paste
 * [ ] multicaret-textarea
 * [ ] _caret-toolkit_: get, set, getCoords, getBoundingBox, onchange, setFromCoords, charsInLine, lineNo
 * [ ] _search by painting_: you paint a picture on the canvas, and google suggests similar images to what your looks like
