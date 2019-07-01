@@ -291,4 +291,6 @@
 
 * Make it right: separate model entities (emmy example), do not mess spaghettie style in methods
 
-* Create projects as if it's going to receive 0 stars in github
+* Create projects as if it's going to receive 0 stars in github.
+
+* Treat projects as a piece of art: it's not everupdating structure, but a finished complete piece of art. Write code as if it's not going to be maintained for ages.
