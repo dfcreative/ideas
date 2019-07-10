@@ -33,7 +33,7 @@
 
 * Stick to conventions (make it right)
 
-* ~~`lib` folder or table of contents in readme - something you do wrong with your package.
+* ~~`lib` folder or table of contents in readme - something you do wrong with your package.~~
 
 * Write self-documented verbose obvious code. Not short symbols, but easy-to-remember or guess phrases. font-size is better than .fs, .box-shadow is better than .bshad. JS is better than LiveScript in that.
 	* Arrow functions, unfortunately, do not follow this :(
@@ -293,6 +293,7 @@
 
 * Make it right: separate model entities (emmy example), do not mess spaghettie style in methods
 
-* Create projects as if it's going to receive 0 stars in github
-
 * Make simplest possible code on the first stage, preoptimization is evil.
+* Create projects as if it's going to receive 0 stars in github.
+
+* Treat projects as a piece of art: it's not everupdating structure, but a finished complete piece of art. Write code as if it's not going to be maintained for ages.
