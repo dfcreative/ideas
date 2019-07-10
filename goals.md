@@ -1,198 +1,23 @@
-# Activities
-
-* polyfill volunteering
-* old project volunteering
-	* licenses
-	* demos
-	* image preview
-	* badges
-	* annotate code
-	* travisify
-	* .editorconfig, .gitignore, .travis etc
-	* fix all bugs
-* add web-audio-api to all audio-lab sub-projects
-
-
-
-
-
-# Choose from these ideas
-
-* typography test page
-* compiled ui-kit for blog
-* blog waterfall documentation, good-looking
-* blog popupper documentation, good-looking
-* imagine-js
-
-0. UI-Kit
-	* Use
-	* Generated content via populate.js (improvise.js)
-	* Responsive navbar (as in example)
-	* Responsive columns
-	* Layout engine (developed waterfall)
-	* Responsive font-size, line-height
-	* Fit image (imgLiquid from unheap)
-
-1. Popupper: clearly and qualified made plugin
-	* Demo page
-	* Docs page
-2. Site: light and firmly made design
-	* Contribute zone: social, donate, githubs, contacts
-	* Blog
-	* Projects list
-	* Single page
-3. Color picker
-4. Custom input/enhanced input/slidr
-
-* Correct all TODOs of fluid-fixed
-* Make centrizr OK
-* Cpickr remake
-	* Color lib
-	* Demo playground page
-* My site simpliest possible
-✔ Micro Pattern generator playground page
-✔ LESS data-uri underlines
-* Improvise.js Data-generator for components framework (automatically fills the templates in content)
-* Slidr
-
-* Carouse(l) web-component
-
-* Counter web-component
-
-* Photoshopr
-	* Minimal work (grads, blend, paths, shape-detection)
-	* Graphics library
-	* SVG as data-uri
-	* My site
-		* Project landing page
-		* Tags
-		* Categories
-		* Donate btn
-	* Landing page
-
-* Typer
-	* Use absurd-js like css compiler
-	* Components
-	* Graphics lib
-
-* Make designer’s kit things:
-	* Typographic Hotkeys
-	* Slider component
-	* Color picker
-	* JS perf tester
-	* Make typer as desktop and web-app, allowing make designs on the fly
-	* Content generator
-	* Site generator
-	* Design evolution system
-
-
-* Constructor
-
-* Fancy zoom simple jquery thing — stupid image zoomer
-
-* Screenshottr
-* blogr
-
-
-[big tails]
-
-* russi
-* imagine
-* photoshopr
-
-[elemphants]
-
-* typer
-	* data scheme
-		* meteor + mongo db
-	* css properties editors
-		* special inputs
-	* inline properties editors
-		* cpickr
-			* color
-				* graphics
-					* photoshopr
-						* photoshopr site
-	* random data
-		* imagine.js
-			* russi.js
-				* generalization algorithms
-	* feed-player
-	* screenshottr
-	* module deployment system
-
-* bloggr
-* screenhotr
-* commentr
-
-
-
-
-
-
-
-MONTH
-
-* Finish languages builder
-* Make meteor comments system
-
-
-
-YEAR
-
-* Learn meteor really well
-* Find a way to make site designs fast (bootstrap-like way)
-* Typer
-* Blogger: ideal system of flashy blogging
-
-
-
-
-
-
-* Designer's playground, like linguoleo, but for design
-* Offline dictionary with set of tests. Like lingualeo, but free and with correct tests, applicable for any language, even not En. It would be nice to click unknown word on the page, add this to the my own dictionary and then train it. Lingua leo is nice, but it’s tests are crap, and it doesn’t work offline.
-	* Add context menu entry "to the dictionary" for a selected sequence
-	* Add a page with a set of tests, simple ones — choose right definition or example of use.
-
-* Cross-JS components compiler
-
-
-------------------
-From emotional capital goals
-
-
-
 ## Day
 
-* b12
+## Sprint
 
-## Week
+* [ ] Spect
+* [ ] Mike website
+* [ ] Wishbox
+* [ ] Nata design
 
-* [ ] plotly: hiding points issue
-* [x] evergreen: hasClose for dialogs
+## Canada 19
 
-* [ ] audio-noise: inverse filter
-* [ ] point-cluster: weights
-* [ ] evergreen-ui: corner dialog props
+* [ ] Kids register
+* [ ] Apply for passport
+* [ ] Natalie register/docs
+* [ ] Accumulate renovation sum
+* [ ] Boris meet
+* [ ] Slava meet
+* [ ] Yarik meet
 
-* [ ] jsxify: transform with sourcemaps
-* [x] test out sweeping formant
-* [x] test out sine projection hypothesis
-* [x] swcify: sourcemaps: blocked by swc itself.
-* [x] swcify
-
-## @Stdlib
-
-* publish packages properly
-* better main entry - for now need to `import Plot from '@stdlib/stdlib/lib/node_modules/@stdlib/plot/ctor'`
-* better plot function, as matplotlib from python
-* color functions
-* rational numbers
-* bit twiddle
-* DSP components: windows, filters, transforms
-
-## Year
+# Backlog
 
 * [ ] audio-lab project plan
 * [ ] Make web-audio-writer component / node entry
@@ -349,7 +174,7 @@ From emotional capital goals
 
 ## Natalie home
 
-* [ ] Attach panel for hallway
+* [x] Attach panel for hallway
 * [ ] красить переходы
 * [ ] шпатлевать за переходом
 * [ ] красить за переходом
@@ -359,12 +184,12 @@ From emotional capital goals
 * [ ] уложить ламинат
 * [ ] прикрутить плинтуса
 * [ ] Shelves
-* [ ] Remove metal door
+* [x] Remove metal door
 * [ ] Kitchen renovation
 * [ ] Change pipes
 * [ ] Buy washing machine
 * [ ] Change oven to electric one
-* [ ] Automatic light in the hall
+* [x] Automatic light in the hall
 * [ ] Destroy asbest wall
 * [ ] Floor in the hall
 * [ ] Change frontal door
@@ -373,24 +198,9 @@ From emotional capital goals
 * [ ] grant Canada permanentship to kids only
 * [ ] or - move to Russia
 
-## Canada 18
-
-* [ ] TOEFL
-* [ ] Ansona apartment
-* [ ] Taxes / driver license
 
 * [ ] jsxify, audiojs, a-vis
-* [ ] piano, jazz
-* [ ] Raspberry Pi constructor
-* [ ] Integral Yoga, Sri Chinmoy
-* [ ] English class
-* [ ] McGill apply
-* [ ] Amazon: buy things for Val
-* [ ] Amazon: Nikita ask whatsup
 * [ ] Amazon: buy things for Nata house
-* [ ] Buy own apartment, move all stuff
-* [ ] Jars for Natalie
-* [ ] Apply for returning taxes - 888-6107727
 * [ ] Pavel/Annita book of recipes & spices
 
 ## Russia
@@ -398,106 +208,24 @@ From emotional capital goals
 * [ ] Крестить Васю
 * [ ] Гаура
 * [ ] Alex: visit grandpa
-* [ ] Справка что не работаю
 * [ ] Canadian dotation
-* [ ] IELTS
-* [ ] Свидетельство о рождении
-* [ ] Материнский Капитал
 * [ ] Max meet
 * [ ] Vacuum cleaner for mom
 
-## ...2020
 
-* [ ] Piano degree
-* [ ] Aikido: fear of knife
-* [ ] Speaking/writing spanish test
+* [ ] point-cluster: weights
+* [ ] audio-noise: inverse filter
+* [ ] evergreen-ui: corner dialog props
+* [ ] jsxify: transform with sourcemaps
 
-## ...2022
-
-* Beautiful partner: heartfelt connection, deep understanding and empathy, trustful, caring, serious, joyful, good sex, mutual business.
-* House in Canada: feeling of own cozy warm home place, with another person for letting my mom live there. Solar energy, parking, inhouse fire.
-
-## ...2025
-
-* First kid
-* 3 employees/coworkers
-* A-projects infrastructure
-* Speaking/writing japanese test
-* Piano playing skill, jamming
-* Music creative lab with staff, projects, research and services
-* Perfect Spanish/Japanese
-* All classic literature list
-* Sobiray: 7 years of silence (clean karmic connection): see if connection persists and make conclusions (long-going experience)
-
-## 2028
-
-* Beautiful loving wife, two kids
-* Live in saint village, somewhere with friendly opened people, sun, family, lovely studio, great projects. Bulgaria?
-* Professor in audio and sound
-* Own apartment/house in Canada
-
-
-## Dreams
-
-material
-* [ ] Replace real money with crypto
-* [ ] Create audio infrastructure: processing, sharing, visualising
-
-social
-* [ ] _real_ help to _real_ people: businesses, workers, educators, medics; _not saviour_!!!
-* [ ] emotional freshness and firmness with Natalie, belief in wonder & future: max out these single relationships and not spare energy anywhere else
-
-spiritual
-* [ ] work focus, no distractors of energy, pure focused conscience, proactive mind, dedication to dreams
-
-soulful
-* [ ] perseverant service to God, pure dialogue, sincerety
-
-
-### Internal
-
-* [ ] Strong connection with God, no overdeveloped ego 7
-* [ ] Strong, adamant will, power, intense internal fire and energy to serve: no days wasted without serving God and love and following the way 3
-* [ ] Physically beautiful, strong, agile and inspiring body 1
-* [ ] Spiritually convincing and inspiring heartfelt speech, awe mesmerizing stories and facts 5
-* [ ] Deep, strong, sharp and inspiring knowledge and memory 6
-* [ ] Deep, sincere, joyful, loving, caring, empathetic, purposeful, helpful and blessed connection with people and live beings 4
-* [ ] God's bliss, love, joy, humour 2
-
-### External, [inter]personal
-
-* [ ] 3 kids, well-grown + loving wifey: family
-* [ ] Open-source vis/music/sound foundation with technical base
-* [ ] RnD lab with crew/team/community (10+)
-* [ ] PhD in sound/music/IT
-* [ ] Ability to heal people
-* [ ] Jazz impro + classic piano, sincere play
-* [ ] Communication languages: Japanese, French, English, Sanskrit, Spanish
-* [ ] Russian cultural traditions promotion and development
-* [ ] Remembering name and story of every person in life
-* [ ] Open chalet in Canada, fam apt in Saint-Pete's
-* [ ] Program of spiritual development/transformation, movement/group
-* [ ] Dotations/development in healing/religion
-* [ ] Extended family all over the world, close group of friends
-* [ ] Many parts of the world travelled/connected purposefully
-* [ ] Knowledge-material imprint:
-	* [ ] Sounding trees
-	* [ ] Museum of noise
-	* [ ] Collection of unique musical instruments
-	* [-] Book on sound, love & serving God, sansara and God cosmic energy (emotions, mind & body) with online programs. Maybe a book of ideas / sound ideas
-* [ ] Dancing - knowing 3-4 styles, recording videos
-* [ ] Bring God's beauty to live.
-
-* [ ] Nata: cosmic way of connecting/taking care, pure soul love.
-* [ ] One love woman for life
-
-## following/trans-life goals
-
-* [ ] religious base, connected interlife knowledge, connection to God, extending/developing God's interfact: theory, practice, interlife and interpeople connection, interplanet/interspecies interface/rules
-* [ ] spiritual/thin plane education
-* [ ] raising karmic awareness: price-list / wikipedia of intentions
-
-# Backlog
+* @Stdlib
+	* publish packages properly
+	* better main entry - for now need to `import Plot from '@stdlib/stdlib/lib/node_modules/@stdlib/plot/ctor'`
+	* better plot function, as matplotlib from python
+	* color functions
+	* rational numbers
+	* bit twiddle
+	* DSP components: windows, filters, transforms
 
 * [ ] Fasting for every day of week at least once.
 * [ ] jsxify adapters detection
@@ -509,7 +237,6 @@ soulful
 * [ ] grandpa set of records
 * [ ] grandpa show grandkid
 * [ ] grandpa Alex visit
-* [-] triangulate bench
 * [ ] Recomponent: ballet website
 * [ ] audio-formant
 * [ ] audio-biquad
@@ -523,7 +250,6 @@ soulful
 	* [ ] nanogl
 	* [ ] a-cartesian
 	* [ ] a-waveform
-
 
 * [ ] psy hometask
 	* [ ] Monro
@@ -668,7 +394,6 @@ soulful
 	* [ ] boris data
 	* [ ] Lidia data
 * [ ] 23andme
-* [-] fertility test: fertile
 * [→] optional glslify - detect if there are `require glsl` - add glslify
 	* → for now just provide browserify transform. No need to internally detect package that is not required.
 * [?] optionalify: detect curious requires/conditions such as `require('x.css')`, `Buffer.isBuffer`, `require('x.glsl')` or `<Component>`, or even polyfill-demanded one `TypedArray.fill` etc - and include listed dependencies based/perform required actions, eg. require react/vdom/etc.
@@ -676,15 +401,253 @@ soulful
 	→
 * [→] jsxify with optional detector
 	→ just use react/preact for now, once there are real cases of DOM/multicomponents
-* [-] cssify fork - detect if there are `import/require css` - add sheetify
-	→ bad for standards complacency, better do directly urify or fs
 * [→] brfs/urify fork with cache module instead of inlined source, mb even async
 	→ that is test-case only for now, besides that is simple to organize cache manually
 * [?] analogify: replace synonimic packages with adapters
 
+## ...2025
+
+* 3 employees/coworkers
+* A-projects infrastructure
+* Speaking/writing japanese test
+* Piano playing skill, jamming
+* Music creative lab with staff, projects, research and services
+* Perfect Spanish/Japanese
+* All classic literature list
+* Sobiray: 7 years of silence (clean karmic connection): see if connection persists and make conclusions (long-going experience)
+
+## 2028
+
+* Beautiful loving wife, two kids
+* Live in saint village, somewhere with friendly opened people, sun, family, lovely studio, great projects. Bulgaria?
+* ~~Professor in audio and sound~~
+* Own apartment/house in Canada
+
+
+## Dreams
+
+material
+* [ ] Replace real money with crypto
+* [ ] Create audio infrastructure: processing, sharing, visualising
+
+social
+* [ ] _real_ help to _real_ people: businesses, workers, educators, medics; _not saviour_!!!
+* [ ] emotional freshness and firmness with Natalie, belief in wonder & future: max out these single relationships and not spare energy anywhere else
+
+spiritual
+* [ ] work focus, no distractors of energy, pure focused conscience, proactive mind, dedication to dreams
+
+soulful
+* [ ] perseverant service to God, pure dialogue, sincerety
+
+
+### Internal
+
+* [ ] Strong connection with God, no overdeveloped ego 7
+* [ ] Strong, adamant will, power, intense internal fire and energy to serve: no days wasted without serving God and love and following the way 3
+* [ ] Physically beautiful, strong, agile and inspiring body 1
+* [ ] Spiritually convincing and inspiring heartfelt speech, awe mesmerizing stories and facts 5
+* [ ] Deep, strong, sharp and inspiring knowledge and memory 6
+* [ ] Deep, sincere, joyful, loving, caring, empathetic, purposeful, helpful and blessed connection with people and live beings 4
+* [ ] God's bliss, love, joy, humour 2
+
+### External, [inter]personal
+
+* [ ] 3 kids, well-grown + loving wifey: family
+* [ ] Open-source vis/music/sound foundation with technical base
+* [ ] RnD lab with crew/team/community (10+)
+* [ ] PhD in sound/music/IT
+* [ ] Ability to heal people
+* [ ] Jazz impro + classic piano, sincere play
+* [ ] Communication languages: Japanese, French, English, Sanskrit, Spanish
+* [ ] Russian cultural traditions promotion and development
+* [ ] Remembering name and story of every person in life
+* [ ] Open chalet in Canada, fam apt in Saint-Pete's
+* [ ] Program of spiritual development/transformation, movement/group
+* [ ] Dotations/development in healing/religion
+* [ ] Extended family all over the world, close group of friends
+* [ ] Many parts of the world travelled/connected purposefully
+* [ ] Knowledge-material imprint:
+	* [ ] Sounding trees
+	* [ ] Museum of noise
+	* [ ] Collection of unique musical instruments
+	* [-] Book on sound, love & serving God, sansara and God cosmic energy (emotions, mind & body) with online programs. Maybe a book of ideas / sound ideas
+* [ ] Dancing - knowing 3-4 styles, recording videos
+* [ ] Bring God's beauty to live.
+
+* [ ] Nata: cosmic way of connecting/taking care, pure soul love.
+* [ ] One love woman for life
+* House in Canada: feeling of own cozy warm home place, with another person for letting my mom live there. Solar energy, parking, inhouse fire.
+
+## following/trans-life goals
+
+* [ ] religious base, connected interlife knowledge, connection to God, extending/developing God's interfact: theory, practice, interlife and interpeople connection, interplanet/interspecies interface/rules
+* [ ] spiritual/thin plane education
+* [ ] raising karmic awareness: price-list / wikipedia of intentions
+
+# Activities
+
+* polyfill volunteering
+* old project volunteering
+	* licenses
+	* demos
+	* image preview
+	* badges
+	* annotate code
+	* travisify
+	* .editorconfig, .gitignore, .travis etc
+	* fix all bugs
+* add web-audio-api to all audio-lab sub-projects
+
+
+# Choose from these ideas
+
+* typography test page
+* compiled ui-kit for blog
+* blog waterfall documentation, good-looking
+* blog popupper documentation, good-looking
+* imagine-js
+
+0. UI-Kit
+	* Use
+	* Generated content via populate.js (improvise.js)
+	* Responsive navbar (as in example)
+	* Responsive columns
+	* Layout engine (developed waterfall)
+	* Responsive font-size, line-height
+	* Fit image (imgLiquid from unheap)
+
+1. Popupper: clearly and qualified made plugin
+	* Demo page
+	* Docs page
+2. Site: light and firmly made design
+	* Contribute zone: social, donate, githubs, contacts
+	* Blog
+	* Projects list
+	* Single page
+3. Color picker
+4. Custom input/enhanced input/slidr
+
+* Correct all TODOs of fluid-fixed
+* Make centrizr OK
+* Cpickr remake
+	* Color lib
+	* Demo playground page
+* My site simpliest possible
+✔ Micro Pattern generator playground page
+✔ LESS data-uri underlines
+* Improvise.js Data-generator for components framework (automatically fills the templates in content)
+* Slidr
+
+* Carouse(l) web-component
+
+* Counter web-component
+
+* Photoshopr
+	* Minimal work (grads, blend, paths, shape-detection)
+	* Graphics library
+	* SVG as data-uri
+	* My site
+		* Project landing page
+		* Tags
+		* Categories
+		* Donate btn
+	* Landing page
+
+* Typer
+	* Use absurd-js like css compiler
+	* Components
+	* Graphics lib
+
+* Make designer’s kit things:
+	* Typographic Hotkeys
+	* Slider component
+	* Color picker
+	* JS perf tester
+	* Make typer as desktop and web-app, allowing make designs on the fly
+	* Content generator
+	* Site generator
+	* Design evolution system
+
+
+* Constructor
+
+* Fancy zoom simple jquery thing — stupid image zoomer
+
+* Screenshottr
+* blogr
+
+
+[big tails]
+
+* russi
+* imagine
+* photoshopr
+
+[elemphants]
+
+* typer
+	* data scheme
+		* meteor + mongo db
+	* css properties editors
+		* special inputs
+	* inline properties editors
+		* cpickr
+			* color
+				* graphics
+					* photoshopr
+						* photoshopr site
+	* random data
+		* imagine.js
+			* russi.js
+				* generalization algorithms
+	* feed-player
+	* screenshottr
+	* module deployment system
+
+* bloggr
+* screenhotr
+* commentr
+
+
+
 
 ## Done
 
+* [x] First kid
+* [x] Справка что не работаю
+* [x] TOEFL
+* [x] Ansona apartment
+* [x] Taxes / driver license
+* [-] Raspberry Pi constructor
+* [-] Integral Yoga, Sri Chinmoy
+* [-] English class
+* [-] McGill apply
+* [-] Amazon: buy things for Val
+* [-] Amazon: Nikita ask whatsup
+* [?] piano, jazz
+* [?] Buy own apartment, move all stuff
+* [-] Jars for Natalie
+* [-] Apply for returning taxes - 888-6107727
+* [-] IELTS
+* [x] Свидетельство о рождении
+* [x] Материнский Капитал
+* [-] plotly: hiding points issue
+* [-] triangulate bench
+* [-] fertility test: fertile
+* [-] cssify fork - detect if there are `import/require css` - add sheetify
+	→ bad for standards complacency, better do directly urify or fs
+* ...2020
+	* [-] Piano degree
+	* [-] Aikido: fear of knife
+	* [-] Speaking/writing spanish test
+* ...2022
+	* [x] Beautiful partner: heartfelt connection, deep understanding and empathy, trustful, caring, serious
+* [x] evergreen: hasClose for dialogs
+* [x] test out sweeping formant
+* [x] test out sine projection hypothesis
+* [x] swcify: sourcemaps: blocked by swc itself.
+* [x] swcify
 * [x] Sivananda
 * [x] Redux handbook
 * [x] CSS-grid handbook
@@ -1347,6 +1310,7 @@ soulful
 * [x] A-space: audio list of things
 
 
+
 ## Roles
 
 * Son
@@ -1402,19 +1366,10 @@ soulful
 	* warm house in Canada for family and friends, next to forest/lake, tesla cars
 
 
-## Principles
-
-* Consider every area as a project to devote time, attention, resource and money
-	* Finding / making a girlfriend
-	* Building business
-* Consider getting out of depression as a project
-	* Get knowledges, approaches, analyze, try, follow, share
-* Time is infinite. Build projects as pieces of art, for eternity.
-
-
 ## Please
 
-* я хочу жить долгой жизнью, не болеть, иметь возможности для творческой реализации и мотивацию менять мир и делать людей кайфовать
-* безпроблемно и мягко создавать любовь в жизнях людей.
+* я хочу служить Богу искренней, чистой, верной любовью
+* жить долгой жизнью, не болеть, иметь возможности для творческой реализации
+* мягко создавать любовь в жизнях людей
 
 

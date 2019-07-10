@@ -286,9 +286,13 @@
 
 * Methods should follow in the order of invocation the component in the real use-case
 
-* Abstract away from data structures, work on the level of logic. For example, if you parse some syntax - it doesn't matter what structure is used for describing some token - an object, string, symbol or array. Logically that should act the same - comparison, replacement etc - don't waste energy paying attention to language peculiarities, that's the 3rd stage question.
+* Abstract away from data structures, work on the level of logic.
+	* For example, if you parse some syntax - it doesn't matter what structure is used for describing some token - an object, string, symbol or array. Logically that should act the same - comparison, replacement etc - don't waste energy paying attention to language peculiarities, that's the 3rd stage question.
 	* That comes to migrations too - if you upgrade structure from string to object, it shouldn't change program logic. TDD in that case is just a tip of iceberg, the core is basic structures and operations with them.
+	* Pick the most suitable data structure, since oftentimes they follow designation, like Map, Set etc.
 
 * Make it right: separate model entities (emmy example), do not mess spaghettie style in methods
 
 * Create projects as if it's going to receive 0 stars in github
+
+* Make simplest possible code on the first stage, preoptimization is evil.
