@@ -1,23 +1,29 @@
 ## Day
 
+* [ ] Spect: web-components
+
+
 ## Sprint
 
-* [ ] Spect
 * [ ] Mike website
 * [ ] Wishbox
 * [ ] Nata design
+* [ ] Virgin send
+* [ ] Quadriga reclaim
+* [ ]
 
 ## Canada 19
 
 * [ ] Kids register
 * [ ] Apply for passport
 * [ ] Natalie register/docs
+* [ ] Fix ring
 * [ ] Accumulate renovation sum
 * [ ] Boris meet
 * [ ] Slava meet
 * [ ] Yarik meet
 
-# Backlog
+## Backlog
 
 * [ ] audio-lab project plan
 * [ ] Make web-audio-writer component / node entry
@@ -405,8 +411,9 @@
 	→ that is test-case only for now, besides that is simple to organize cache manually
 * [?] analogify: replace synonimic packages with adapters
 
-## ...2025
+## 2028
 
+* Live in saint village, somewhere with friendly opened people, sun, family, lovely studio, great projects. Bulgaria? Drummond?
 * 3 employees/coworkers
 * A-projects infrastructure
 * Speaking/writing japanese test
@@ -415,11 +422,7 @@
 * Perfect Spanish/Japanese
 * All classic literature list
 * Sobiray: 7 years of silence (clean karmic connection): see if connection persists and make conclusions (long-going experience)
-
-## 2028
-
 * Beautiful loving wife, two kids
-* Live in saint village, somewhere with friendly opened people, sun, family, lovely studio, great projects. Bulgaria?
 * ~~Professor in audio and sound~~
 * Own apartment/house in Canada
 
