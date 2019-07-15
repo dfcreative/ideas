@@ -1,5 +1,6 @@
 # Ideas for projects
 
+* [ ] tuplemap - extends primitive-pool, uniquely identifies tuples as keys, like `tuple(a, b) === tuple(a, b)`
 * [ ] typer - standard tpl generative tool. Take typography/article template page, regenerate font matching, font scale, colors; take dashboard - regenerate gaps, rounding, colors etc; take landing page - regenerate blocks style, divisors, etc.; take multiform - regenerate look; take table with results - regenerate UI; take app UI with sidebar - regenerate type of drawer/menu/nav/look/fonts; basically, approaches to customize some UI-components library look.
 * [ ] prime/integers/rational numbers popularity/statistics, at least in css
 * [ ] git code issues - issues identifiable from the code, with history of comments etc. Instead of storing everything in github, store dev history in repository itself, and even in code, with auto-reference to _issues.md file.
