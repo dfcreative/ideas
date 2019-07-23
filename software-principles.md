@@ -297,3 +297,5 @@
 * Create projects as if it's going to receive 0 stars in github.
 
 * Treat projects as a piece of art: it's not everupdating structure, but a finished complete piece of art. Write code as if it's not going to be maintained for ages.
+
+* Make readme close to tests close to code - don't overimagine beforehead, don't keep unimplemented stuff in readme. Write truth: word, thought, action.
