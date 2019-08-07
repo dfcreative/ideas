@@ -286,6 +286,7 @@
 
 * Methods should follow in the order of invocation the component in the real use-case
 
+
 * Abstract away from data structures, work on the level of logic.
 	* For example, if you parse some syntax - it doesn't matter what structure is used for describing some token - an object, string, symbol or array. Logically that should act the same - comparison, replacement etc - don't waste energy paying attention to language peculiarities, that's the 3rd stage question.
 	* That comes to migrations too - if you upgrade structure from string to object, it shouldn't change program logic. TDD in that case is just a tip of iceberg, the core is basic structures and operations with them.
@@ -299,3 +300,5 @@
 * Treat projects as a piece of art: it's not everupdating structure, but a finished complete piece of art. Write code as if it's not going to be maintained for ages.
 
 * Make readme close to tests close to code - don't overimagine beforehead, don't keep unimplemented stuff in readme. Write truth: word, thought, action.
+
+* Each introduced tech/concept in framework/lib, like synthetic events, proxy wrapping etc., should be used to the fullest, disclose its potential to the max. Otherways that's just complicated heap of tech.
