@@ -1,5 +1,8 @@
 # Ideas for projects
 
+* [ ] figma plugin for that https://github.com/ejarzo/Shape-Your-Music
+* [ ] figma-based audio lab
+* [ ] ordered-object - data structure, combining both array and object, so that els are available by index (ordered) and key (indexed)
 * [ ] tuplemap - extends primitive-pool, uniquely identifies tuples as keys, like `tuple(a, b) === tuple(a, b)`
 * [ ] typer - standard tpl generative tool. Take typography/article template page, regenerate font matching, font scale, colors; take dashboard - regenerate gaps, rounding, colors etc; take landing page - regenerate blocks style, divisors, etc.; take multiform - regenerate look; take table with results - regenerate UI; take app UI with sidebar - regenerate type of drawer/menu/nav/look/fonts; basically, approaches to customize some UI-components library look.
 * [ ] prime/integers/rational numbers popularity/statistics, at least in css
